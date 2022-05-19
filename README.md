@@ -1,4 +1,4 @@
-# date_gas_light
+# Spanish prices of natural gas and electricity
 A CSV file containing the average daily prices of natural gas and electricity in Spain. The dates go from 2017-01-01 to 2022-04-27. The separator is ";". The prices are rounded to two decimal places. 
 
 2017-2022_date_gas_light.csv contains three colums: "Date";"GasEUR/MWH";"LightEUR/MWH". It is easily pandable with:
